@@ -5,7 +5,7 @@ from dataclasses import dataclass
 class Variables:
 	
 	Base_Path: str = "/home/pi/Python_Test"
-	Port: int = 90
+	Port: int = 80
 	
 	
 	
